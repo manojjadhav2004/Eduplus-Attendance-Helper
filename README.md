@@ -31,7 +31,7 @@ calculate their attendance percentage and determine:
 ## 📱 Screenshots
 | Home | Attendance Summary |
 |------|-------------------|
-| ![](screenshots/app_home.png) | ![](screenshots/attendance_result.png) |
+| ![](screenshots/app_home.jpg) | ![](screenshots/attendance_result.jpg) |
 
 ---
 
