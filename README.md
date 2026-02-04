@@ -40,7 +40,8 @@ This app is created for **educational purposes only**.
 It does not modify or interfere with the original Eduplus system.
 
 ---
-
+## Try APK
+link: https://drive.google.com/drive/folders/1DsJAoQvN-nWUNT6gjsGhvkQ2Wl0jkAvi?usp=drive_link
 ## 👨‍💻 Developer
 **Manoj Rambhau Jadhav**  
 📧 heymanojjadhav@gmail.com
